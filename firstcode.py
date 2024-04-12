@@ -21,7 +21,7 @@ def sumitfunc(s):  # declare the functin
 
 sumitfunc("kd") # call the funtion 
 
-name = "sumit xyz is  " + x
+name = "here i am experimneting with the new codin world " + x
 
 #name = "ravi xyz"
 

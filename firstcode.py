@@ -17,7 +17,7 @@ x = "awesome" # global variable
 
 def sumitfunc(s):  # declare the functin
    x = "fantastic" #local variable 
-   print("Python is " + x + s)
+   print("Python is beautiful language" + x + s)
 
 sumitfunc("kd") # call the funtion 
 
